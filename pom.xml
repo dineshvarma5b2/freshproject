@@ -70,7 +70,15 @@
                         <useReleaseProfile>false</useReleaseProfile>
                         <!--  instead use our own one called release, see below -->
                         <releaseProfiles>release</releaseProfiles>
-                    </configuration>
+                  
+  </configuration>
+
+<table>
+    <th>Author(s)</th>
+    <th>Book Title</th>
+    <th>Read?</th>
+</table>
+
                 </plugin>
                 <plugin>
                     <artifactId>maven-javadoc-plugin</artifactId>
