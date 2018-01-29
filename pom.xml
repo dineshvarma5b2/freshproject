@@ -71,14 +71,13 @@
                         <!--  instead use our own one called release, see below -->
                         <releaseProfiles>release</releaseProfiles>
                   
-  </configuration>
-
-<table>
-    <th>Author(s)</th>
-    <th>Book Title</th>
-    <th>Read?</th>
-</table>
-
+                   </configuration>
+                  <note>
+                  <to>Tove</to>
+                  <from>Jani</from>
+                  <heading>Reminder</heading>
+                  <body>Don't forget me this weekend!</body>
+                 </note>
                 </plugin>
                 <plugin>
                     <artifactId>maven-javadoc-plugin</artifactId>
